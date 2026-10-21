@@ -1,0 +1,14 @@
+{
+    "UI_CodexPetKit_Reduction": "最多减重",
+    "UI_CodexPetKit_Scope": "适用范围",
+    "UI_CodexPetKit_AllFirearms": "所有枪械",
+    "UI_CodexPetKit_HeavyFirearms": "裸枪基础重量大于 5.0 的枪械",
+    "UI_CodexPetKit_Minimum": "枪体与附件合计最低重量",
+    "UI_CodexPetKit_Equipped": "装备与背挂负重按游戏系数同步降低。",
+    "UI_CodexPetKit_NoVisual": "不改变枪械外观。",
+    "UI_CodexPetKit_Slot": "安装位置",
+    "UI_CodexPetKit_Misc": "杂项（Misc）",
+    "UI_CodexPetKit_Sling": "背带（旧版待迁移）",
+    "UI_CodexPetKit_Exclusive": "与同槽配件互斥，轻型与重型不可叠加。",
+    "UI_CodexPetKit_MigrationBlocked": "杂项槽已占用：保留原位继续减重，腾空后自动迁移。"
+}

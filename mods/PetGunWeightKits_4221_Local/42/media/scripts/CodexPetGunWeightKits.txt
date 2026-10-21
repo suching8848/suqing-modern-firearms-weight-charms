@@ -1,0 +1,111 @@
+module CodexPetGunWeightKits
+{
+    item LightWeightKit
+    {
+        ItemType = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        DisplayName = SuQing's Modern Firearms Weight-Reduction Charm (Light),
+        Icon = CodexPetGunWeightKit,
+        Weight = 0.1,
+        PartType = Sling,
+        WeightModifier = 0,
+        WorldRender = FALSE,
+        WorldStaticModel = Gunpart.Sling,
+        Tooltip = Tooltip_CodexPetLightWeightKit,
+        CanAttach = CodexPetGunWeightKits.CanAttach,
+        OnAttach = CodexPetGunWeightKits.OnAttach,
+        OnDetach = CodexPetGunWeightKits.OnDetach,
+        OnCreate = CodexPetGunWeightKits.OnCreate,
+    }
+    item HeavyWeightKit
+    {
+        ItemType = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        DisplayName = SuQing's Modern Firearms Weight-Reduction Charm (Heavy),
+        Icon = CodexPetGunWeightKit,
+        Weight = 0.2,
+        PartType = Sling,
+        WeightModifier = 0,
+        WorldRender = FALSE,
+        WorldStaticModel = Gunpart.Sling,
+        Tooltip = Tooltip_CodexPetHeavyWeightKit,
+        CanAttach = CodexPetGunWeightKits.CanAttach,
+        OnAttach = CodexPetGunWeightKits.OnAttach,
+        OnDetach = CodexPetGunWeightKits.OnDetach,
+        OnCreate = CodexPetGunWeightKits.OnCreate,
+    }
+    item LightWeightKitMisc
+    {
+        ItemType = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        DisplayName = SuQing's Modern Firearms Weight-Reduction Charm (Light),
+        Icon = CodexPetGunWeightKit,
+        Weight = 0.1,
+        PartType = Misc,
+        WeightModifier = 0,
+        WorldRender = FALSE,
+        WorldStaticModel = Gunpart.Sling,
+        Tooltip = Tooltip_CodexPetLightWeightKit,
+        CanAttach = CodexPetGunWeightKits.CanAttach,
+        OnAttach = CodexPetGunWeightKits.OnAttach,
+        OnDetach = CodexPetGunWeightKits.OnDetach,
+        OnCreate = CodexPetGunWeightKits.OnCreate,
+    }
+    item HeavyWeightKitMisc
+    {
+        ItemType = base:weaponpart,
+        DisplayCategory = WeaponPart,
+        DisplayName = SuQing's Modern Firearms Weight-Reduction Charm (Heavy),
+        Icon = CodexPetGunWeightKit,
+        Weight = 0.2,
+        PartType = Misc,
+        WeightModifier = 0,
+        WorldRender = FALSE,
+        WorldStaticModel = Gunpart.Sling,
+        Tooltip = Tooltip_CodexPetHeavyWeightKit,
+        CanAttach = CodexPetGunWeightKits.CanAttach,
+        OnAttach = CodexPetGunWeightKits.OnAttach,
+        OnDetach = CodexPetGunWeightKits.OnDetach,
+        OnCreate = CodexPetGunWeightKits.OnCreate,
+    }
+    craftRecipe MakePetLightGunWeightKit
+    {
+        timedAction = Making,
+        time = 100,
+        Tags = InHandCraft,
+        category = Weaponry,
+        SkillRequired = Mechanics:1,
+        xpAward = Mechanics:2,
+        inputs
+        {
+            item 2 [Base.Aluminum],
+            item 2 [Base.Screws],
+            item 1 [Base.DuctTape],
+            item 1 tags[base:screwdriver] mode:keep,
+        }
+        outputs
+        {
+            item 1 CodexPetGunWeightKits.LightWeightKitMisc,
+        }
+    }
+    craftRecipe MakePetHeavyGunWeightKit
+    {
+        timedAction = Making,
+        time = 200,
+        Tags = InHandCraft,
+        category = Weaponry,
+        SkillRequired = Mechanics:3,
+        xpAward = Mechanics:4,
+        inputs
+        {
+            item 4 [Base.Aluminum],
+            item 4 [Base.Screws],
+            item 2 [Base.DuctTape],
+            item 1 tags[base:screwdriver] mode:keep,
+        }
+        outputs
+        {
+            item 1 CodexPetGunWeightKits.HeavyWeightKitMisc,
+        }
+    }
+}

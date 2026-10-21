@@ -1,0 +1,14 @@
+{
+    "UI_CodexPetKit_Reduction": "Maximum gun weight reduction",
+    "UI_CodexPetKit_Scope": "Compatible firearms",
+    "UI_CodexPetKit_AllFirearms": "All firearms",
+    "UI_CodexPetKit_HeavyFirearms": "Bare gun weight above 5.0",
+    "UI_CodexPetKit_Minimum": "Minimum gun and attachment weight",
+    "UI_CodexPetKit_Equipped": "Equipped and hotbar burden follow native multipliers.",
+    "UI_CodexPetKit_NoVisual": "No change to gun appearance.",
+    "UI_CodexPetKit_Slot": "Attachment slot",
+    "UI_CodexPetKit_Misc": "Misc",
+    "UI_CodexPetKit_Sling": "Sling (legacy, awaiting migration)",
+    "UI_CodexPetKit_Exclusive": "One kit per gun; shares its slot with other Misc attachments.",
+    "UI_CodexPetKit_MigrationBlocked": "Misc occupied: legacy kit stays active; migration follows when the slot is free."
+}

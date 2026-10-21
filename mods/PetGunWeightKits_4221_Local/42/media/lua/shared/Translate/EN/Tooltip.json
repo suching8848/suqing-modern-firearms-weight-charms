@@ -1,0 +1,4 @@
+{
+    "Tooltip_CodexPetLightWeightKit": "Firearms: up to -1.5 weight.<br>Uses the gun Misc slot; replaces other parts in that slot.<br>Gun plus attachments cannot fall below 0.1.<br>Equipped and hotbar burden decrease with native multipliers. No visual gun change.",
+    "Tooltip_CodexPetHeavyWeightKit": "Firearms with bare gun weight ABOVE 5.0: up to -5.0 weight.<br>ROSE and other eligible heavy guns are supported.<br>Uses the gun Misc slot; replaces other parts in that slot.<br>Gun plus attachments cannot fall below 0.1.<br>Equipped and hotbar burden decrease with native multipliers. No visual gun change."
+}
