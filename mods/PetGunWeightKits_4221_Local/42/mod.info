@@ -1,10 +1,12 @@
 name=蘇清的现代枪械减重挂件
 namezh=蘇清的现代枪械减重挂件
 id=Codex_PetGunWeightKits_4221
+icon=icon.png
+poster=poster.png
 require=ModernFirearmsSystem
 loadModAfter=ModernFirearmsSystem
 versionMin=42.21
 versionMax=42.21
 modversion=1.2.1
 author=Local gameplay addition
-description=Two removable Misc-slot gun weight kits. Light reduces firearm weight by up to 1.5; Heavy reduces by up to 5.0 for firearms with bare script weight above 5.0. Final gun and attachment weight stays at least 0.1. Equipped and hotbar burden follow native multipliers. Uses the supplied pet icon without changing gun appearance. Safely migrates legacy Sling kits when Misc is vacant. Explicit MFS-style kit tooltip. Natural loot: light kits in gun stores, police storage and military weapon storage; rare heavy kits in military weapon storage. Single-player local mod; no Workshop files replaced.
+description=本模组极其影响游戏真实性与平衡性，请谨慎添加。适合喜欢收集、囤积物资和多带枪械的屯屯鼠玩家。 B42.21单人用途维护，联机未验证。前置ModernFirearmsSystem。轻型最多减重1.5；重型最多减重5.0，仅裸枪脚本重量严格大于5.0可装；枪体与附件计重最低0.1。占用Misc杂项槽，可与普通枪带共存。原模组：https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539

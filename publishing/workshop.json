@@ -1,0 +1,19 @@
+{
+  "title": "蘇清的现代枪械减重挂件 [B42.21 单人]",
+  "mod_id": "Codex_PetGunWeightKits_4221",
+  "version": "1.2.1",
+  "appid": 108600,
+  "publishedfileid": "3824003141",
+  "visibility": "public",
+  "tags": [
+    "Build 42",
+    "Balance",
+    "Items",
+    "Weapons",
+    "QoL"
+  ],
+  "required_workshop_items": [
+    "3633421539"
+  ],
+  "github": "https://github.com/suching8848/suqing-modern-firearms-weight-charms"
+}
