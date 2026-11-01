@@ -1,4 +1,4 @@
-# SuQing's Firearm Weight Charms | 蘇清的现代枪械减重挂件
+# 蘇清的现代枪械减重挂件模组 | SuQing's Firearm Weight Charms Mod
 
 [中文](README.md) · [English](README.en.md)
 
@@ -16,13 +16,13 @@ A personal weight reduction add-on for [ModernFirearmsSystem (MFS)](https://stea
 
 The promotional image is AI-generated illustration. Its character, clothing and weapons are not installed as skins or models. This mod adds no visible charm model to guns.
 
-## The author's current single-player collection
+## The author’s single-player setup and collection
 
-[SuQing's personal mod collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [Complete current single-player enabled list and order](docs/current-single-player-modlist.md)
+[Workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [Current 205-ID list and enabled order](docs/current-single-player-modlist.md) · [All mod and patch repositories](docs/project-index.md)
 
-**The author reports normal play with this current collection in their own B42.21 single-player save.** The Steam collection provides publicly subscribable Workshop items. It does not include unpublished local patches or represent the game's enabled order; use the separate list above for the complete enabled list and order. Multiplayer and dedicated servers remain untested. This is feedback from the author's current single-player setup, rather than individual testing of every item or mod combination.
+The current snapshot contains **205 Mod IDs, 161 Workshop items and 33 separately installed local mods or patches not included in collection downloads**. The author previously reported normal play with their full B42.21 single-player setup; this is not individual acceptance of every project or new version. Multiplayer and dedicated servers remain untested.
 
-The report refers to the full current setup: 204 enabled Mod IDs mapped to 161 public Workshop items, plus 32 unpublished local patches. Those 32 patches are not included with the collection; see the list above for all 204 Mod IDs and their order.
+Source repositories are now linked for the local projects. Subscribing to the Steam collection alone still does not reproduce the full setup. See [requirements and patch relationships](docs/PATCH_DEPENDENCIES.md) for mandatory dependencies and conditional integrations.
 
 ## Original mod and requirement
 

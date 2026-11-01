@@ -1,4 +1,4 @@
-# 蘇清的现代枪械减重挂件 | SuQing's Firearm Weight Charms
+# 蘇清的现代枪械减重挂件模组 | SuQing's Firearm Weight Charms Mod
 
 [中文](README.md) · [English](README.en.md)
 
@@ -16,13 +16,13 @@
 
 宣传图为 AI 生成的氛围插画。图中的人物、服装与武器展示不会作为人物皮肤或模型安装进游戏；本模组不添加枪上可见的挂件模型。
 
-## 作者当前单人合集
+## 作者当前单人档与合集
 
-[蘇清的自用模组合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [当前单人档完整启用列表与顺序](docs/current-single-player-modlist.md)
+[作者工坊合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [当前205项启用列表及顺序](docs/current-single-player-modlist.md) · [全部模组与补丁仓库](docs/project-index.md)
 
-**作者确认当前合集在自己的 B42.21 单人档中游玩正常。** Steam 合集提供可公开订阅的工坊项目，不包含未公开的本地补丁，也不表示游戏启用顺序；完整启用列表及顺序请看上面的独立清单。多人和专用服务器未验证；这是作者当前单人环境的使用反馈，不是所有物品或模组组合的逐项验证。
+当前启用快照为 **205 个 Mod ID、161 个工坊项目，以及33个不随工坊合集下载的本地模组或补丁**。作者此前确认自己的完整 B42.21 单人配置游玩正常；这不是每个项目或新增版本的逐项验收。多人和专用服务器未验证。
 
-作者确认的是当前完整配置：204 个启用 Mod ID，对应 161 个公开工坊项目，另含 32 个未发布本地补丁。合集不随附这 32 个补丁；完整 204 个 Mod ID 及顺序见上述清单。
+本地项目现有独立 Git 源码入口；仅订阅 Steam 合集仍不能完整复现作者环境。具体所需前置、条件补丁及加载关系见 [依赖与补丁说明](docs/PATCH_DEPENDENCIES.md)。
 
 ## 原模组与前置
 
