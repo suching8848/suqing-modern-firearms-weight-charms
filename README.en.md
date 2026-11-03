@@ -18,7 +18,7 @@ The promotional image is AI-generated illustration. Its character, clothing and 
 
 ## The author’s single-player setup and collection
 
-[Workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [Current 205-ID list and enabled order](docs/current-single-player-modlist.md) · [All mod and patch repositories](docs/project-index.md)
+[Workshop collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [Single-player enabled snapshot: 205 IDs on 2026-11-02 01:10 UTC+08:00](docs/current-single-player-modlist.md) · [Ten source repositories and 42 Mod IDs](docs/project-index.md)
 
 The current snapshot contains **205 Mod IDs, 161 Workshop items and 33 separately installed local mods or patches not included in collection downloads**. The author previously reported normal play with their full B42.21 single-player setup; this is not individual acceptance of every project or new version. Multiplayer and dedicated servers remain untested.
 

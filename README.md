@@ -18,7 +18,7 @@
 
 ## 作者当前单人档与合集
 
-[作者工坊合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [当前205项启用列表及顺序](docs/current-single-player-modlist.md) · [全部模组与补丁仓库](docs/project-index.md)
+[作者工坊合集](https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387) · [2026-11-02 01:10 的单人档启用快照（205 项）](docs/current-single-player-modlist.md) · [10 个源码仓库与 42 个 Mod ID](docs/project-index.md)
 
 当前启用快照为 **205 个 Mod ID、161 个工坊项目，以及33个不随工坊合集下载的本地模组或补丁**。作者此前确认自己的完整 B42.21 单人配置游玩正常；这不是每个项目或新增版本的逐项验收。多人和专用服务器未验证。
 
