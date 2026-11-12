@@ -1,54 +1,34 @@
-[h1]蘇清的现代枪械减重挂件 | SuQing's Firearm Weight Charms v1.2.1[/h1]
 [h2]中文[/h2]
-[b]极大影响真实性与平衡性，请谨慎添加。适合喜欢收集、囤积物资和多带枪械的屯屯鼠玩家。[/b]
-制作缘由：想同时带步枪和大狙，但太重了。大幅减重会削弱负重与搬运取舍。
-
-[b]环境与前置[/b]
-Build 42.21，单人用途维护。需[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539]ModernFirearmsSystem（MFS）[/url]，在它之后加载。代码也可能识别定义了弹药类型的其他远程枪械，不代表全部枪械模组已验证。多人和专用服务器未验证。
-
-[b]作者当前单人合集[/b]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387]蘇清的自用模组合集[/url]
-作者确认当前合集在自己的 B42.21 单人档中游玩正常。Steam合集提供公开工坊订阅，不包含未公开本地补丁，也不表示启用顺序。[url=https://github.com/suching8848/suqing-modern-firearms-weight-charms/blob/main/docs/current-single-player-modlist.md]完整启用列表与顺序[/url]。此反馈不等于所有物品或模组组合逐项验证。当前完整配置为204个Mod ID、161个工坊项目及32个未发布本地补丁；合集不随附这些补丁，完整204项及顺序见清单。
-
-[b]两种挂件[/b]
-轻型最多减重1.5，自重0.1；重型最多减重5.0，自重0.2，仅裸枪脚本重量严格大于5.0可装，等于5.0不行，重配件不改变资格。枪体与附件最低保留0.1；弹药和弹匣内容仍正常计重。占枪械Misc槽，轻重不能叠加，与同槽配件互斥，可与普通枪带共存，不占人物Noir背枪位置。原生手持/背挂系数保留。例如裸枪7.0装重型后，受影响枪体重量为2.0。
-
-[b]制作与掉落[/b]
-制作菜单“武器”分类，搜“蘇清”或挂件名。轻型：机械1，铝材2、螺丝2、胶带1用量；重型：机械3，铝材4、螺丝4、胶带2用量。均保留螺丝刀。铝材是Base.Aluminum（铝箔），铝废料/碎片不可替代。
-自然掉落相对权重：轻型枪店配件柜1.0、警局武器柜0.5、军事武器柜0.8；重型军事武器柜0.15。这不是掉率百分比；不补发已生成旧箱，不新增定时刷新或僵尸掉落。
-
-[b]使用、迁移与停用[/b]
-挂件置于人物主物品栏，Misc留空，通过原生右键或MFS检视界面装卸，安装不额外要工具，可重复使用。旧Sling版保留物品ID；Misc空闲时迁移，占用时旧位继续生效。动态减重在读档、装卸、装备、转移及容器检查时恢复。
-停用前先拆下所有枪上挂件，处理已有挂件物品并备份存档。工坊与手动版使用同一Mod ID，只保留一种来源。
-
-[b]素材与验证[/b]
-不包含原作代码/模型/贴图/音效，不新增枪上模型；AI宣传图不提供人物皮肤或服装。感谢MFS作者。本次仅更新双语说明、合集链接和清单；玩法、图片和版本保持1.2.1，本轮未启动游戏复测，也不承诺FPS提升。
-[url=https://github.com/suching8848/suqing-modern-firearms-weight-charms]GitHub中文/英文完整说明、安装与限制[/url]
-
+[b]男人的梦想就是带一把步枪和一把反器材大狙，但是好重，所以做了这个模组。适合喜欢收集、囤积物资和多带枪械的玩家，会明显影响真实性与负重平衡。[/b]
+适用 B42.21–42.22 单人，版本 1.2.2-rc.1。B42.22.2 原生装卸和旧挂件读回已离线通过，游戏内待验收。需要另订阅并启用[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539]ModernFirearmsSystem（MFS）[/url]，让本模组在MFS之后加载。不需要补丁合集或独立库存优化补丁。
+[h3]两种挂件[/h3]
+[list]
+[*]轻型：最多减重1.5，挂件自重0.1。
+[*]重型：最多减重5.0，挂件自重0.2；裸枪基础重量必须严格大于5.0，加装重配件不会改变资格。
+[/list]
+占用枪械Misc杂项槽，每枪只能装一个，与同槽配件互斥，可与普通枪带共存，不占Noir人物背枪位置。受影响枪体及附件最低保留0.1；弹药、弹匣内容正常计重，原生手持和背挂系数保留。它不添加枪上可见模型。
+[h3]获得与使用[/h3]
+制作菜单“武器”分类搜索“蘇清”或“减重挂件”。轻型需机械1、铝箔2、螺丝2、胶带1用量；重型需机械3、铝箔4、螺丝4、胶带2用量，螺丝刀保留。铝箔是Base.Aluminum，铝废料不能替代。挂件也可在尚未生成物资的枪店、警局或军事武器柜中找到；重型仅加入军事武器柜，不补发旧箱。
+挂件放人物主物品栏，确保Misc空闲，再用原生右键或MFS检视界面装卸；安装不额外要求工具，可反复使用。旧版物品ID保留，Misc空闲时迁移。停用前先拆下枪上挂件并处理已有挂件物品。
+[h3]兼容与反馈[/h3]
+作者反馈自己的完整B42.21单人配置游玩正常；不代表所有枪械、物品或组合逐项验证。其他定义了弹药类型的远程武器也可能被识别，但不保证所有枪械模组兼容；多人和专用服务器未验证。工坊与手动版本只保留一种来源。
+Mod ID：Codex_PetGunWeightKits_4221
+[url=https://github.com/suching8848/suqing-modern-firearms-weight-charms]GitHub：完整说明与最新单人档名单[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387]作者单人档模组合集[/url]：供参考与订阅；合集不自动包含独立本地补丁，也不代表加载顺序。
 [h2]English[/h2]
-[b]Greatly changes realism and balance. Use with care. Intended for players who enjoy collecting, stockpiling and carrying several firearms.[/b]
-I made it to carry both a rifle and a large sniper rifle: they were too heavy. Large reductions weaken carry-weight and hauling trade-offs.
-
-[b]Scope and requirement[/b]
-Build 42.21, maintained for single-player. Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539]ModernFirearmsSystem (MFS)[/url]; load after it. Other ranged weapons defining an ammunition type may qualify, without a claim that every firearm mod has been tested. Multiplayer and dedicated servers remain untested.
-
-[b]The author's current single-player collection[/b]
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387]SuQing's personal mod collection[/url]
-The author reports normal play with this current collection in their own B42.21 single-player save. The Steam collection offers public Workshop subscriptions, excludes unpublished local patches and does not represent enabled order. See the [url=https://github.com/suching8848/suqing-modern-firearms-weight-charms/blob/main/docs/current-single-player-modlist.md]complete enabled list and order[/url]. This is not individual testing of every item or combination. The full setup has 204 Mod IDs, 161 Workshop items and 32 unpublished local patches. Those patches are not included with the collection; see the list for all 204 IDs and their order.
-
-[b]Two charms[/b]
-Light: up to 1.5 reduction, own weight 0.1. Heavy: up to 5.0, own weight 0.2; bare weapon script weight must be strictly above 5.0. Exactly 5.0 fails; heavy attachments do not change eligibility. Affected gun and attachment weight stays at least 0.1; ammunition and magazine contents still count normally. Uses Misc: one charm per gun, excludes other Misc attachments, coexists with ordinary gun slings and does not occupy Noir character carry positions. Native held/hotbar multipliers remain. Example: a bare 7.0 gun with the heavy charm has affected gun weight 2.0.
-
-[b]Crafting and loot[/b]
-Weapons crafting category; search SuQing or the charm name. Light: Mechanics 1, aluminum 2, screws 2, duct tape 1 use. Heavy: Mechanics 3, aluminum 4, screws 4, duct tape 2 uses. A screwdriver is kept. Aluminum means Base.Aluminum (Aluminum Foil), not scrap/fragments.
-Relative loot weights: light in gun store accessories 1.0, police gun storage 0.5, military gun storage 0.8; heavy in military gun storage 0.15. These are not percentages. No backfilling old containers, added timed restocks or zombie drops.
-
-[b]Use, migration and removal[/b]
-Keep the charm in main inventory and Misc empty; attach/remove through native right-click actions or MFS inspection. No extra installation tool; charms are reusable. Legacy Sling item IDs remain. They migrate when Misc is free, otherwise keep working in the old slot. Dynamic reductions are restored on load, attachment changes, equipping, transfers and container checks.
-Before disabling, detach all charms, deal with existing charm items and back up the save. Workshop/manual versions share one Mod ID; keep one source.
-
-[b]Assets and validation[/b]
-No original-mod code, models, textures or sounds are included. No visible gun model is added; AI promotional art does not provide skins or clothing. Thanks to MFS's author. This update changes bilingual documentation, collection links and the list only; gameplay, images and version remain 1.2.1. No fresh game test was run for this update, and no FPS gain is promised.
-[url=https://github.com/suching8848/suqing-modern-firearms-weight-charms]Full Chinese/English documentation, installation and limits[/url]
-
+[b]Want to carry a rifle and a large sniper rifle, but find them too heavy? Attach a reusable weight-reduction charm. Made for collectors, stockpilers and players carrying several guns; it substantially changes realism and carry-weight balance.[/b]
+For B42.21–42.22 single-player, version 1.2.2-rc.1. Native equip and legacy charm readback passed offline on B42.22.2; gameplay testing is pending. Subscribe to and enable [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539]ModernFirearmsSystem (MFS)[/url] separately, then load this add-on after it. Neither the patch collection nor a separate inventory optimization patch is required.
+[h3]Two charms[/h3]
+[list]
+[*]Light: up to 1.5 weight reduction; charm weight 0.1.
+[*]Heavy: up to 5.0 weight reduction; charm weight 0.2. Bare weapon base weight must be strictly above 5.0; heavy attachments do not change eligibility.
+[/list]
+Uses the firearm's Misc slot, one charm per gun. Excludes other Misc attachments, coexists with ordinary slings and does not occupy Noir character carry positions. Affected gun and attachment weight stays at least 0.1. Ammunition and magazine contents still count normally; native held and hotbar multipliers remain. No visible gun-mounted model is added.
+[h3]Obtaining and use[/h3]
+Search for SuQing or the charm name in the Weapons crafting category. Light: Mechanics 1, aluminum foil 2, screws 2 and duct tape 1 use. Heavy: Mechanics 3, aluminum foil 4, screws 4 and duct tape 2 uses. The screwdriver is kept. Aluminum means Base.Aluminum, not scrap. Charms can also appear in newly populated gun-store, police or military weapon storage; heavy charms are added only to military storage. Existing filled containers are not backfilled.
+Keep the charm in main inventory and Misc empty, then attach or remove it through native right-click actions or MFS inspection. No extra installation tool is required; charms are reusable. Legacy item IDs remain and migrate when Misc is free. Before disabling, detach all installed charms and deal with existing charm items.
+[h3]Compatibility and feedback[/h3]
+The author reports normal play with their full B42.21 single-player setup. This is not individual validation of every firearm, item or combination. Other ranged weapons with ammunition types may qualify, without a guarantee for every firearm mod. Multiplayer and dedicated servers are untested. Choose either Workshop or manual installation.
 Mod ID: Codex_PetGunWeightKits_4221
+[url=https://github.com/suching8848/suqing-modern-firearms-weight-charms]GitHub: full instructions and current single-player list[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387]The author's single-player mod collection[/url]: reference and subscriptions; separately installed local patches and enabled order are not supplied by the collection.

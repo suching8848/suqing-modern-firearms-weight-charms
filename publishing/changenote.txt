@@ -1,3 +1,2 @@
-v1.2.1 文案更新（版本不变）：提供中英双语标题、完整说明及安装文档；加入作者当前单人合集与有序完整启用清单。作者确认当前合集在自己的B42.21单人档中游玩正常。Steam合集不含未公开本地补丁，启用顺序以清单为准。玩法、数值、资源与版本不变；联机未验证。
-
-v1.2.1 documentation update (version unchanged): bilingual titles, full descriptions and installation documentation; added the author's current single-player collection and complete ordered enabled list. The author reports normal play with this current collection in their own B42.21 single-player save. The Steam collection excludes unpublished local patches; use the separate list for enabled order. Gameplay, values, assets and version are unchanged; multiplayer remains untested.
+1.2.2-rc.1 · 适配 B42.22.2 单人并保留 B42.21。原生离线回归通过，B42.22.2 游戏内验收待完成。
+1.2.2-rc.1 · B42.22.2 single-player compatibility with continued B42.21 support. Native offline regression passed; B42.22.2 gameplay testing is pending.
