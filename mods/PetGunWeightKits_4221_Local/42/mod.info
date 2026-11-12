@@ -6,7 +6,7 @@ poster=poster.png
 require=ModernFirearmsSystem
 loadModAfter=ModernFirearmsSystem
 versionMin=42.21
-versionMax=42.21
-modversion=1.2.1
+versionMax=42.22
+modversion=1.2.2-rc.1
 author=Local gameplay addition
-description=极大影响真实性与平衡性，请谨慎添加，适合收集囤积玩家。B42.21单人；前置MFS。轻型最多减重1.5，重型最多5.0且裸枪脚本重量须严格大于5.0；枪体与附件最低0.1；占Misc槽。作者确认当前合集在自己的B42.21单人档游玩正常，联机未验证。 Greatly changes realism and balance; use with care. B42.21 single-player; requires MFS. Light: up to 1.5 reduction. Heavy: up to 5.0, bare script weight strictly above 5.0. Gun and attachments retain at least 0.1; occupies Misc. The author reports normal play with this current collection in their own B42.21 single-player save; multiplayer untested. Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387
+description=极大影响真实性与平衡性，请谨慎添加，适合收集囤积玩家。B42.21–42.22 单人；前置 MFS。轻型最多减重1.5，重型最多5.0且裸枪脚本重量须严格大于5.0；枪体与附件最低0.1；占Misc槽。作者确认当前合集在自己的B42.21单人档游玩正常，联机未验证。 Greatly changes realism and balance; use with care. B42.21–42.22 single-player. Requires MFS. Light: up to 1.5 reduction. Heavy: up to 5.0, bare script weight strictly above 5.0. Gun and attachments retain at least 0.1; occupies Misc. The author reports normal play with this current collection in their own B42.21 single-player save; multiplayer untested. Collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3823981387

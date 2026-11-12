@@ -1,5 +1,9 @@
 # 蘇清的现代枪械减重挂件模组 | SuQing's Firearm Weight Charms Mod
 
+## 42.22.2 离线适配候选
+
+`1.2.2-rc.1` 是本地候选，适用单人游戏的 B42.21–42.22 分支。保留四个挂件和耗材 ID，沿用旧 Sling 挂件迁移及 Misc 互斥规则。 42.22.2 游戏内验收待完成。下方保留已发布版本说明。
+
 [中文](README.md) · [English](README.en.md)
 
 面向《Project Zomboid》[ModernFirearmsSystem（现代枪械系统）](https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539)的个人减重附加模组。

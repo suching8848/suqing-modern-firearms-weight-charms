@@ -1,5 +1,9 @@
 # 蘇清的现代枪械减重挂件模组 | SuQing's Firearm Weight Charms Mod
 
+## 42.22.2 offline compatibility candidate
+
+`1.2.2-rc.1` is a local candidate for B42.21–42.22 single-player. Preserves the four charm and material IDs, legacy Sling migration, and Misc-slot exclusivity. In-game testing on 42.22.2 is pending. The release notes below cover the published version.
+
 [中文](README.md) · [English](README.en.md)
 
 A personal weight reduction add-on for [ModernFirearmsSystem (MFS)](https://steamcommunity.com/sharedfiles/filedetails/?id=3633421539) in Project Zomboid.
